@@ -1,9 +1,7 @@
 # Mern_Vote
-A web app created with React and Node to vote for your favourites.
-
-# Screenshots
-
-
+Designed and developed an application to vote for favourite users.
+The web app also provides facilities to view top users along with their profile, votes, facemashes and
+ranking.
 # Installation
 
 * Install all dependencies:
